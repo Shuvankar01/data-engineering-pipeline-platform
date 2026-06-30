@@ -224,13 +224,35 @@ Configure these variables in your local .env file or deployment environment.. Fo
 
 ## Screenshots
 
-> Drop your screenshots / GIFs into `docs/screenshots/`.
+### Landing
 
-| | |
-|---|---|
-| ![Landing](docs/screenshots/landing.png) | ![Dashboard](docs/screenshots/dashboard.png) |
-| ![Pipeline workflow](docs/screenshots/pipeline.png) | ![Analytics](docs/screenshots/analytics.png) |
-| ![Execution history](docs/screenshots/executions.png) | ![Command palette](docs/screenshots/palette.png) |
+![Landing](docs/screenshots/landing.png)
+
+### Authentication
+
+![Authentication](docs/screenshots/auth.png)
+
+### Dashboard
+
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Pipelines
+
+![Pipelines](docs/screenshots/pipeline.png)
+
+### Analytics
+
+![Analytics](docs/screenshots/analytics.png)
+
+
+### Executions
+
+![Executions](docs/screenshots/executions.png)
+
+### Command Palette
+
+![Palette](docs/screenshots/palette.png)
+
 
 ## Security
 
